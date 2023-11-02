@@ -1,0 +1,15 @@
+C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC1/cmake-build-debug/CMakeFiles/BoxPrint.dir
+C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC1/cmake-build-debug/CMakeFiles/OdwracanieSlow.dir
+C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC1/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC1/cmake-build-debug/CMakeFiles/install.dir
+C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC1/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC1/cmake-build-debug/CMakeFiles/install/strip.dir
+C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC1/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC1/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC1/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir
+C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC1/cmake-build-debug/_deps/fmt-build/CMakeFiles/list_install_components.dir
+C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC1/cmake-build-debug/_deps/fmt-build/CMakeFiles/install.dir
+C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC1/cmake-build-debug/_deps/fmt-build/CMakeFiles/install/local.dir
+C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC1/cmake-build-debug/_deps/fmt-build/CMakeFiles/install/strip.dir
